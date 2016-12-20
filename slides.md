@@ -1,5 +1,5 @@
 ---
-title: The Artful Process of Effective Scientific Communication
+title: The Artful Process of Effective Scientific Communication 科研沟通的艺术
 author:
 - name: Eric J. Ma
   affiliation: Department of Biological Engineering, MIT
@@ -19,12 +19,21 @@ theme: beige
 
 # about myself
 
-- B.Sc. UBC Vancouver
-- Ph.D. MIT
-- Self-taught Pythonista
+- Undergrad: Univ. British Columbia, Vancouver, Integrated Sciences
+- Doctoral: Massachusetts Institute of Technology, Biological Engineering
+- Self-taught Pythonista. Python is really fun, and lets you do a ton of things!
 
 # Main Ideas
 
 > 1. Your idea should be as simple as possible, but no simpler than necessary.
 > 1. You need a safe space and time to develop your thoughts.
 > 1. You will want to strategically select colleagues to help give you feedback
+> 1.
+
+# Simplicity
+
+# Contact
+
+- [Personal website](www.ericmjl.com)
+- [Contact](www.shortwhale.com/ericmjl)
+-
