@@ -58,6 +58,10 @@ How do I phrase my idea, such that:
 
 ![The final figure that told the story in its entirety, in the submission to PNAS](./figures/fig1-pnas.png){#fig1 .class width=100%}
 
+## 文字减肥计划
+
+- before: 2794 words in main text.
+- after: 1847 words in main text.
 
 # contact
 
