@@ -43,16 +43,18 @@ theme: beige
 - Time: reviewers (especially) will be busy.
 - Details: nobody but you knows best what you've done.
 
-## the artful principle (redux)
+## the artful principle
 
 How do I phrase my idea, such that:
 
-1. it and nothing more is sufficient for my audience to know what I'm saying, and that
-1. it and nothing less is necessary for my audience to know what I'm saying?
-1. 
+- it and nothing more is sufficient for my audience to know what I'm saying, and that
+- it and nothing less is necessary for my audience to know what I'm saying?
 
 ## example
 
+Does this look impressive?
+
+![All four figures from my first set of submissions to Nature, Science and eLife.]
 
 
 # contact

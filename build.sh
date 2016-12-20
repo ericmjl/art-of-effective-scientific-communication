@@ -1,6 +1,10 @@
 # Run the SCSS build script
 python revealjs/css/theme/source/compile.py
 
+# Convert four-figures to PNG
+
+convert figures/four-figures.pdf figures/four-figures.png
+
 # Make HTML notes version of slides
 pandoc slides.md \
     -o index.html \
