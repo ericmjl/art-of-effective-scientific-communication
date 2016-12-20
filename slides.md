@@ -52,8 +52,6 @@ How do I phrase my idea, such that:
 
 ## example
 
-Does this look impressive?
-
 ![All four figures from my first set of submissions to Nature, Science and eLife.](./figures/four-figures.png){#figures .class width=800}
 
 
