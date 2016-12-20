@@ -1,5 +1,5 @@
 ---
-title: Effective Scientific Communication
+title: The Artful Process of Effective Scientific Communication
 author:
 - name: Eric J. Ma
   affiliation: Department of Biological Engineering, MIT
@@ -19,5 +19,12 @@ theme: beige
 
 # about myself
 
-- Canada > Singapore > Canada > USA
--
+- B.Sc. UBC Vancouver
+- Ph.D. MIT
+- Self-taught Pythonista
+
+# Main Ideas
+
+> 1. Your idea should be as simple as possible, but no simpler than necessary.
+> 1. You need a safe space and time to develop your thoughts.
+> 1. You will want to strategically select colleagues to help give you feedback
