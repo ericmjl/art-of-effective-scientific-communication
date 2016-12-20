@@ -25,12 +25,23 @@ theme: beige
 
 # main ideas
 
-> 1. Your idea should be as simple as possible, but no simpler than necessary.
-> 1. You need a safe space and time to develop your thoughts.
-> 1. You will want to strategically select colleagues to help give you feedback
-> 1.
+1. Your idea should be as simple as possible, but no simpler than necessary.
+1. You will need a safe space and time to develop your thoughts.
+1. You will want to strategically select colleagues to help give you feedback
 
 # simplicity
+
+## temptation
+
+- You've done a ton of work.
+- You want to include everything.
+- *这样才能对得起自己的付出，对吧？*
+
+## reality
+
+- Background: audience will be lacking.
+- Time: reviewers (especially) will be busy. I've done this before.
+- 
 
 # contact
 
