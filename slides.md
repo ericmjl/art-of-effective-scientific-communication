@@ -50,9 +50,13 @@ How do I phrase my idea, such that:
 - it and nothing more is sufficient for my audience to know what I'm saying, and that
 - it and nothing less is necessary for my audience to know what I'm saying?
 
-## example
+## example: before
 
 ![All four figures from my first set of submissions to Nature, Science and eLife.](./figures/four-figures.png){#figures .class width=100%}
+
+## example: after
+
+![The final figure that told the story in its entirety, in the submission to PNAS](./figures/fig1-pnas.png){#fig1 .class width=100%}
 
 
 # contact
