@@ -50,15 +50,15 @@ How do I phrase my idea, such that:
 - it and nothing more is sufficient for my audience to know what I'm saying, and that
 - it and nothing less is necessary for my audience to know what I'm saying?
 
-## example: before
+## before
 
 ![All four figures from my first set of submissions to Nature, Science and eLife.](./figures/four-figures.png){#figures .class width=100%}
 
-## example: after
+## after
 
 ![The final figure that told the story in its entirety, in the submission to PNAS](./figures/fig1-pnas.png){#fig1 .class width=100%}
 
-## word diet 文字减肥计划
+## word diet (文字减肥计划)
 
 - before: 2794 words in main text.
 - after: 1847 words in main text.
@@ -67,17 +67,19 @@ How do I phrase my idea, such that:
 
 # space & time
 
-##
+## spaces
 
 I found spaces where I could write all day long.
 
-##
+## time
 
-Because I had gained my advisor's trust, I earned the right to not be disturbed by him.
+Because I had gained my advisor's trust, I earned the right to not be pressured by him.
 
-##
+It's a two-way trust!
 
+## fresh eyes
 
+I tackled one idea per day, and never rewrote the same sections on consecutive days.
 
 # contact
 
