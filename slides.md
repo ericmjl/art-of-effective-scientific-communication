@@ -23,16 +23,16 @@ theme: beige
 - Doctoral: Massachusetts Institute of Technology, Biological Engineering
 - Self-taught Pythonista. Python is really fun, and lets you do a ton of things!
 
-# Main Ideas
+# main ideas
 
 > 1. Your idea should be as simple as possible, but no simpler than necessary.
 > 1. You need a safe space and time to develop your thoughts.
 > 1. You will want to strategically select colleagues to help give you feedback
 > 1.
 
-# Simplicity
+# simplicity
 
-# Contact
+# contact
 
 - [Personal website](www.ericmjl.com)
 - [Contact](www.shortwhale.com/ericmjl)
