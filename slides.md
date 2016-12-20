@@ -58,7 +58,7 @@ How do I phrase my idea, such that:
 
 ![The final figure that told the story in its entirety, in the submission to PNAS](./figures/fig1-pnas.png){#fig1 .class width=100%}
 
-## word diet (文字减肥计划)
+## word diet
 
 - before: 2794 words in main text.
 - after: 1847 words in main text.
@@ -79,7 +79,7 @@ It's a two-way trust!
 
 ## fresh eyes
 
-I tackled one idea per day, and never rewrote the same sections on consecutive days.
+I tackled one idea per day, and only wrote what I had inspiration for.
 
 # contact
 
