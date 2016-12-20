@@ -52,7 +52,7 @@ How do I phrase my idea, such that:
 
 ## example
 
-![All four figures from my first set of submissions to Nature, Science and eLife.](./figures/four-figures.png){#figures .class width=1000px}
+![All four figures from my first set of submissions to Nature, Science and eLife.](./figures/four-figures.png){#figures .class width=1200px}
 
 
 # contact
