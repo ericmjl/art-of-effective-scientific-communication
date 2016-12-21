@@ -25,7 +25,7 @@ theme: beige
 
 # main ideas
 
-1. Your idea should be as simple as possible, but no simpler than necessary.
+1. Your idea should be communicated as simply as possible, but no simpler than necessary.
 1. You will need a safe space and time to develop your thoughts.
 1. You will want to strategically select colleagues to help give you feedback
 
@@ -39,9 +39,9 @@ theme: beige
 
 ## reality
 
-- Background: audience won't necessarily have this.
-- Time: reviewers (especially) will be busy.
-- Details: nobody but you knows best what you've done.
+- Your audience won't necessarily have enough **background**.
+- Your reviewers may not have enough **time**.
+- Nobody but you knows best the **details** of what you've done.
 
 ## the artful principle
 
@@ -50,13 +50,15 @@ How do I phrase my idea, such that:
 - it and nothing more is sufficient for my audience to know what I'm saying, and that
 - it and nothing less is necessary for my audience to know what I'm saying?
 
+*Who is my audience, and how do I know what they know?*
+
 ## before
 
-![All four figures from my first set of submissions to Nature, Science and eLife.](./figures/four-figures.png){#figures .class width=800px}
+![All four figures from my first set of submissions to Nature, Science and eLife.](./figures/four-figures.png){#figures .class}
 
 ## after
 
-![The final figure that told the story in its entirety, in the submission to PNAS](./figures/fig1-pnas.png){#fig1 .class width=800px}
+![The final figure that told the story in its entirety, in the submission to PNAS](./figures/fig1-pnas.png){#fig1 .class}
 
 ## word diet
 
@@ -81,8 +83,12 @@ It's a two-way trust!
 
 I tackled one idea per day, and only wrote what I had inspiration for.
 
+## feedback
+
+I found peers who looked like my intended audience to tell me where they couldn't understand what I was writing.
+
 # contact
 
-- [Personal website](www.ericmjl.com)
-- [Contact](www.shortwhale.com/ericmjl)
--
+- [Personal website](http://www.ericmjl.com)
+- [Contact](http://www.shortwhale.com/ericmjl)
+- [GitHub](https://github.com/ericmjl)
