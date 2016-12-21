@@ -81,11 +81,9 @@ It's a two-way trust!
 
 ## fresh eyes
 
-I tackled one idea per day, and only wrote what I had inspiration for.
+I tackled one idea per day, and prioritized what I had inspiration for.
 
-## feedback
-
-I found peers who looked like my intended audience to tell me where they couldn't understand what I was writing.
+##
 
 # contact
 
