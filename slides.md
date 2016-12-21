@@ -52,11 +52,11 @@ How do I phrase my idea, such that:
 
 ## before
 
-![All four figures from my first set of submissions to Nature, Science and eLife.](./figures/four-figures.png){#figures .class width=100% max-width=1000px}
+![All four figures from my first set of submissions to Nature, Science and eLife.](./figures/four-figures.png){#figures .class width=800px}
 
 ## after
 
-![The final figure that told the story in its entirety, in the submission to PNAS](./figures/fig1-pnas.png){#fig1 .class width=100% max-width=1000px}
+![The final figure that told the story in its entirety, in the submission to PNAS](./figures/fig1-pnas.png){#fig1 .class width=800px}
 
 ## word diet
 
