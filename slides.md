@@ -25,9 +25,10 @@ theme: beige
 
 # main ideas
 
-1. Your idea should be communicated as simply as possible, but no simpler than necessary.
-1. You will need a safe space and time to develop your thoughts.
-1. You will want to strategically select colleagues to help give you feedback
+1. Communicate your idea as simply as possible, but no simpler than necessary.
+1. Find a safe space and time to develop your thoughts.
+1. Strategically select colleagues to help give you feedback.
+1. Multiple rounds of rewriting is inevitable.
 
 # simplicity
 
@@ -69,21 +70,49 @@ How do I phrase my idea, such that:
 
 # space & time
 
+The details matter: take charge, experiment, and design your environment to fit your needs.
+
 ## spaces
 
-I found spaces where I could write all day long.
+I found spaces where I could write and think in isolation.
+
+Yet, other people doing work in those same spaces.
 
 ## time
 
-Because I had gained my advisor's trust, I earned the right to not be pressured by him.
+My advisor let me set the tempo, and I repaid the trust with regular updates.
 
-It's a two-way trust!
+# feedback
 
-## fresh eyes
+## advisor
 
-I tackled one idea per day, and prioritized what I had inspiration for.
+**"Does it make sense to my advisor?"**
 
-##
+- Advisor is responsible for packaging your story into research group's overall scientific direction.
+
+## communications lab
+
+**"Does it make sense to a relative outsider?"**
+
+- A "general biologist" should understand the general implications of my research.
+
+## your mom
+
+*Don't bother.*
+
+# rounds and rounds of editing
+
+## let it go
+
+First drafts are always going to be unsatisfactory. Let it go.
+
+## each round gets better
+
+Each rewrite clarifies the scientific idea further.
+
+## beware the details
+
+
 
 # contact
 
