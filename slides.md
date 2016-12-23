@@ -20,9 +20,14 @@ theme: beige
 
 # about myself
 
-- Undergrad: Univ. British Columbia, Vancouver, Integrated Sciences
-- Doctoral: Massachusetts Institute of Technology, Biological Engineering
+- [UBC Vancouver][UBC], [Integrated Sciences][ISCI]
+- [MIT][MIT], [Biological Engineering][MITBE]
 - Self-taught Pythonista. Python is really fun, and lets you do a ton of things!
+
+[UBC]: http://www.ubc.ca/
+[MIT]: http://web.mit.edu/
+[MITBE]: https://be.mit.edu/
+[ISCI]: https://intsci.ubc.ca/
 
 # main ideas
 
@@ -71,7 +76,9 @@ How do I phrase my idea, such that:
 
 # space & time
 
-The details matter: take charge, experiment, and design your environment to fit your needs.
+## details matter
+
+Take charge, experiment, and design your environment to fit your needs.
 
 ## spaces
 
@@ -95,7 +102,7 @@ My advisor let me set the tempo, and I repaid the trust with regular updates.
 
 **"Does it make sense to a relative outsider?"**
 
-- A "general biologist" should understand the general implications of my research.
+- A specialist who shares your foundational knowledge should understand the general implications of your research.
 
 ## your mom
 
@@ -103,20 +110,34 @@ My advisor let me set the tempo, and I repaid the trust with regular updates.
 
 # rounds and rounds of editing
 
+## fundamentals matter
+
+Command of English grammar and specialized vocabulary.
+
+Imitate papers written by native English writers.
+
 ## let it go
 
-First drafts are always going to be unsatisfactory. Let it go.
+First drafts are always going to be unsatisfactory.
 
 ## each round gets better
 
+"Show me your first draft and I'll show you where you're wrong."
+
 Each rewrite clarifies the scientific idea further.
-
-## beware the details
-
-
 
 # contact
 
 - [Personal website](http://www.ericmjl.com)
 - [Contact](http://www.shortwhale.com/ericmjl)
 - [GitHub](https://github.com/ericmjl)
+
+# resources
+
+1. [Some modest advice for graduate students][advice]
+1. [Elements of Style][elements]
+1. [How to write a scientific paper][howto]
+
+[advice]: http://stearnslab.yale.edu/some-modest-advice-graduate-students
+[elements]: https://en.wikipedia.org/wiki/The_Elements_of_Style
+[howto]: http://bitesizebio.com/10837/book-review-how-to-write-and-publish-a-scientific-paper-by-robert-a-day-and-barbara-gastel/
