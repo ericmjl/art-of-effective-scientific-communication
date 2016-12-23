@@ -4,6 +4,7 @@ author:
 - name: Eric J. Ma 马靖龙
   affiliation: MIT 麻省理工学院
 date: 29 December 2016
+location: Shanghai Tech
 theme: beige
 ---
 
