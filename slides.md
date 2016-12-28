@@ -1,8 +1,8 @@
 ---
-title: The Artful Process of Effective Scientific Communication 科研沟通的艺术
+title: The Artful Process of Effective Scientific Communication
 author:
-- name: Eric J. Ma 马靖龙
-  affiliation: MIT 麻省理工学院
+- name: Eric J. Ma
+  affiliation: MIT
 date: 29 December 2016
 location: Shanghai Tech
 theme: beige
