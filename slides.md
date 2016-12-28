@@ -112,19 +112,19 @@ My advisor let me set the tempo, and I repaid the trust with regular updates.
 
 ## fundamentals matter
 
-Command of English grammar and specialized vocabulary.
+- Command of English grammar and specialized vocabulary.
 
-Imitate papers written by native English writers.
+- Imitate papers written by native English writers.
 
 ## let it go
 
-First drafts are always going to be unsatisfactory.
+- First drafts are always going to be unsatisfactory.
 
 ## each round gets better
 
-"Show me your first draft and I'll show you where you're wrong."
+- "Show me your first draft and I'll show you where you're wrong."
 
-Each rewrite clarifies the scientific idea further.
+- Each rewrite clarifies the scientific idea further.
 
 # contact
 
