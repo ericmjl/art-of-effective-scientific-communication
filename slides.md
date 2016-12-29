@@ -69,6 +69,8 @@ How do I structure the communication of my idea, such that:
 
 *Who is my audience, and how do I know what they know?*
 
+## my story
+
 ## before
 
 ![All four figures from my first set of submissions to Nature, Science and eLife.](./figures/four-figures.png){#figures .class}
