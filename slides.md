@@ -57,11 +57,11 @@ How do I phrase my idea, such that:
 - it and nothing more is sufficient for my audience to know what I'm saying, and that
 - it and nothing less is necessary for my audience to know what I'm saying?
 
+*Who is my audience, and how do I know what they know?*
+
 ## the artful pareto
 
-![The pareto principle: 80% of my results will come from 20% of my effort.](./figures/pareto.png){#pareto .class}
-
-*Who is my audience, and how do I know what they know?*
+![The pareto principle: 80% of my results will come from 20% of my effort.](./figures/pareto.png){#pareto .class }
 
 ## before
 
@@ -69,7 +69,7 @@ How do I phrase my idea, such that:
 
 ## after
 
-![The final figure that told the story in its entirety, in the submission to PNAS](./figures/fig1-pnas.png){#fig1 .class height=400px}
+![The final figure that told the story in its entirety, in the submission to PNAS](./figures/fig1-pnas.png){#fig1 .class}
 
 ## word diet
 
