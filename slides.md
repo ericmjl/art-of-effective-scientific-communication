@@ -31,10 +31,10 @@ theme: beige
 
 # main ideas
 
-1. Communicate your idea as simply as possible, but no simpler than necessary.
-1. Find a safe space and time to develop your thoughts.
-1. Strategically select colleagues to help give you feedback.
-1. Multiple rounds of rewriting is inevitable.
+> 1. Communicate your idea as simply as possible, but no simpler than necessary.
+> 1. Find a safe space and time to develop your thoughts.
+> 1. Strategically select colleagues to help give you feedback.
+> 1. Multiple rounds of rewriting is inevitable.
 
 # simplicity
 
@@ -56,6 +56,10 @@ How do I phrase my idea, such that:
 
 - it and nothing more is sufficient for my audience to know what I'm saying, and that
 - it and nothing less is necessary for my audience to know what I'm saying?
+
+## the artful pareto
+
+![The pareto principle: 80% of my results will come from 20% of my effort.](./figures/pareto.png){#pareto .class}
 
 *Who is my audience, and how do I know what they know?*
 
