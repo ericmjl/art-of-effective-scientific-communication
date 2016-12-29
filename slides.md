@@ -163,7 +163,7 @@ Take charge, experiment, and design your environment to fit your needs.
 
 ## keep iterating
 
-![Progress comes from iteration, execution, and feedback. "Failure" (also known as "negative feedback") should be expected.](./figures/upward-spiral.png){#upward-spiral .class height=300px}
+![Progress comes from iteration, execution, and feedback. "Failure" (also known as "negative feedback") should be expected.](./figures/upward-spiral.png){#upward-spiral .class height=250px}
 
 # contact
 
