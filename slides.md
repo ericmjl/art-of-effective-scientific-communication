@@ -175,7 +175,7 @@ Take charge, experiment, and design your environment to fit your needs.
 
 let's chat!
 
-现在可以换语言了，但如果换成"chinglish"的话，请多多包涵！
+可以换语言了，但如果交叉"chinglish"的话，请多多包涵！
 
 - prepping for grad school
 - thriving in grad school
