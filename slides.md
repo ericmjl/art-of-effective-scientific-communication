@@ -24,7 +24,8 @@ theme: beige
 
 - [UBC Vancouver][UBC], [Integrated Sciences][ISCI]
 - [MIT][MIT], [Biological Engineering][MITBE]
-- Research on influenza evolution, ecology, and biochemistry using computational tools.
+- Research on viral evolution, ecology, and biochemistry
+- Developer of computational tools.
 
 [UBC]: http://www.ubc.ca/
 [MIT]: http://web.mit.edu/
