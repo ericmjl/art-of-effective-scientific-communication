@@ -171,6 +171,17 @@ Take charge, experiment, and design your environment to fit your needs.
 - [Contact](http://www.shortwhale.com/ericmjl)
 - [GitHub](https://github.com/ericmjl)
 
+# thank you!
+
+let's chat!
+
+(现在可以换语言了, but please pardon me if I switch to "Chinglish")
+
+- prepping for grad school
+- thriving in grad school
+- learning programming
+- life in North America
+
 # resources
 
 1. [Some modest advice for graduate students][advice]
