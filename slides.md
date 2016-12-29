@@ -61,7 +61,7 @@ How do I phrase my idea, such that:
 
 ## the artful pareto
 
-![The pareto principle: 80% of my results will come from 20% of my effort.](./figures/pareto.png){#pareto .class }
+![The pareto principle: 80% of my results will come from 20% of my effort.](./figures/pareto.png){#pareto .class height=400px}
 
 ## before
 
