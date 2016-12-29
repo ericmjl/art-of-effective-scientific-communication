@@ -147,7 +147,8 @@ Take charge, experiment, and design your environment to fit your needs.
 
 ## each round gets better
 
-- "Show me your first draft and I'll show you where you're wrong."
+**"Show me your first draft and I'll show you where you're wrong."**
+
 - Each rewrite clarifies the scientific idea further.
 
 # summary
