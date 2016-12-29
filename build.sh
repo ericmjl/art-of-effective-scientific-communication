@@ -1,6 +1,9 @@
 # Run the SCSS build script
 python revealjs/css/theme/source/compile.py
 
+# Run the QR code generator
+python qrlink.py
+
 # Make HTML notes version of slides
 pandoc slides.md \
     -o index.html \

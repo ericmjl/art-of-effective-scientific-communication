@@ -10,16 +10,21 @@ theme: beige
 
 # slides are available online!
 
-- html notes: [ericmjl.github.io/art-of-effective-scientific-communication][html]
-- source: [github.com/ericmjl/art-of-effective-scientific-communication][source]
+![](./figures/slides-qr.svg){#qr-link .class height=300px}
+
+- [slides][slides]
+- [html notes][html]
+- [source][source]
 
 [source]: https://github.com/ericmjl/art-of-effective-scientific-communication
 [html]: https://ericmjl.github.io/art-of-effective-scientific-communication
+[slides]: https://ericmjl.github.io/art-of-effective-scientific-communication/slides.html
 
 # about myself
 
 - [UBC Vancouver][UBC], [Integrated Sciences][ISCI]
 - [MIT][MIT], [Biological Engineering][MITBE]
+- Research on influenza evolution, ecology, and biochemistry using computational tools.
 
 [UBC]: http://www.ubc.ca/
 [MIT]: http://web.mit.edu/
@@ -28,8 +33,10 @@ theme: beige
 
 # why this talk?
 
-- Your future will involve communication at many levels of technical difficulty.
-- Let me share with you a taste of what that will look like.
+- Your future will involve communication at many levels of technical difficulty:
+    - **to other specialists**
+    - to non-technical audience
+- Let me share with you a taste of what that **process** may look like.
 
 # main ideas
 
@@ -54,7 +61,7 @@ theme: beige
 
 ## the artful principle
 
-How do I phrase my idea, such that:
+How do I structure the communication of my idea, such that:
 
 - it and nothing more is sufficient for my audience to know what I'm saying
 - it and nothing less is necessary for my audience to know what I'm saying?
@@ -67,7 +74,7 @@ How do I phrase my idea, such that:
 
 ## after
 
-![The final figure that told the story in its entirety, in the submission to PNAS](./figures/fig1-pnas.png){#fig1 .class}
+![The final figure that told the main point of the scientific story, in the submission to PNAS](./figures/fig1-pnas.png){#fig1 .class}
 
 ## word diet
 
@@ -106,17 +113,19 @@ Take charge, experiment, and design your environment to fit your needs.
 
 - Advisor is responsible for packaging your story into research group's overall scientific direction.
 
-## colleagues
+## colleagues & collaborators
 
-**"Does it make sense to my colleagues?"**
+**"Does it make sense to my colleagues & collaborators?"**
 
-- Colleagues are a good starting point, but should not be the only people you talk with.
+- Colleagues & collaborators will tell you where your logic is not clear.
+- Can sometimes provide alternate perspectives.
 
-## communications lab
+## specialist outsiders
 
 **"Does it make sense to a specialist outsider?"**
 
-- A specialist who shares your foundational knowledge should understand the general implications of your research.
+- A specialist outsider: someone who shares your foundational knowledge but doesn't know more than that.
+- You should be able to communicate the general implications of your research, without the detail.
 
 ## your mom
 
@@ -126,7 +135,7 @@ Take charge, experiment, and design your environment to fit your needs.
 
 ## fundamentals matter
 
-- Command of English grammar and specialized vocabulary.
+- Master English grammar and specialized vocabulary.
 - Imitate papers written by native English writers.
 
 ## let it go
@@ -144,9 +153,9 @@ Take charge, experiment, and design your environment to fit your needs.
 
 ![What makes it into the main paper figures is only a fraction of what you've done. A lot of life is like that too.](./figures/simplicity.png){#simplicity .class height=300px}
 
-## the artful pareto
+## the pareto principle
 
-![The pareto principle: 80% of my results will come from 20% of my effort. Perfection is not required at the beginning.](./figures/pareto.png){#pareto .class height=300}
+![80% of my results will come from 20% of my effort. Perfection is not required at the beginning.](./figures/pareto.png){#pareto .class height=300}
 
 ## build your community
 
@@ -154,7 +163,7 @@ Take charge, experiment, and design your environment to fit your needs.
 
 ## keep iterating
 
-![Progress comes from iteration, execution, and feedback. "Failure" (i.e. negative feedback) should be expected.](./figures/upward-spiral.png){#upward-spiral .class height=300px}
+![Progress comes from iteration, execution, and feedback. "Failure" (also known as "negative feedback") should be expected.](./figures/upward-spiral.png){#upward-spiral .class height=300px}
 
 # contact
 
