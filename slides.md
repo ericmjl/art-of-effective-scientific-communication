@@ -69,7 +69,7 @@ How do I phrase my idea, such that:
 
 ## after
 
-![The final figure that told the story in its entirety, in the submission to PNAS](./figures/fig1-pnas.png){#fig1 .class}
+![The final figure that told the story in its entirety, in the submission to PNAS](./figures/fig1-pnas.png){#fig1 .class width=600px}
 
 ## word diet
 
